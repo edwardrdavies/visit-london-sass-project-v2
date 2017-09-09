@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # My Personal Workflow with SASS, NPM and Gulp
 My Web Workflow with NPM, SASS, Gulp and More
 
@@ -10,3 +11,6 @@ My Web Workflow with NPM, SASS, Gulp and More
     - [gulp](http://gulpjs.com/)
     
 3.- Run `npm install ` to install the project dependencies   
+=======
+# visit-london-sass-project-v2
+>>>>>>> 2c26dbd0cca3c01bdcc8d9677bb1314513fc4333
